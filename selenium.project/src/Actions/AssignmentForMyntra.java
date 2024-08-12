@@ -19,5 +19,8 @@ public static void main(String[] args) {
 	 
 	 Actions act=new Actions(driver);
 	 act.moveToElement(mendrop).perform();
+	 act.moveToElement(mendrop).perform();
+	
+	
 }
 }
